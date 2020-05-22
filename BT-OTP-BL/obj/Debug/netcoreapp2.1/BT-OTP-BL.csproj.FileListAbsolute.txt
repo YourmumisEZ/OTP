@@ -1,0 +1,17 @@
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-BL\bin\Debug\netcoreapp2.1\BT-OTP-BL.deps.json
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-BL\bin\Debug\netcoreapp2.1\BT-OTP-BL.dll
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-BL\obj\Debug\netcoreapp2.1\BT-OTP-BL.csproj.CoreCompileInputs.cache
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-BL\obj\Debug\netcoreapp2.1\BT-OTP-BL.AssemblyInfoInputs.cache
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-BL\obj\Debug\netcoreapp2.1\BT-OTP-BL.AssemblyInfo.cs
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-BL\bin\Debug\netcoreapp2.1\BT-OTP-BL.pdb
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-BL\obj\Debug\netcoreapp2.1\BT-OTP-BL.csprojAssemblyReference.cache
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-BL\obj\Debug\netcoreapp2.1\BT-OTP-BL.dll
+C:\Users\YourMuMisEZ\Documents\Visual Studio 2017\Projects\BT-OTP-BL\obj\Debug\netcoreapp2.1\BT-OTP-BL.pdb
+C:\Solutions\BT-OTP\BT-OTP-BL\bin\Debug\netcoreapp2.1\BT-OTP-BL.deps.json
+C:\Solutions\BT-OTP\BT-OTP-BL\bin\Debug\netcoreapp2.1\BT-OTP-BL.dll
+C:\Solutions\BT-OTP\BT-OTP-BL\bin\Debug\netcoreapp2.1\BT-OTP-BL.pdb
+C:\Solutions\BT-OTP\BT-OTP-BL\obj\Debug\netcoreapp2.1\BT-OTP-BL.csprojAssemblyReference.cache
+C:\Solutions\BT-OTP\BT-OTP-BL\obj\Debug\netcoreapp2.1\BT-OTP-BL.AssemblyInfoInputs.cache
+C:\Solutions\BT-OTP\BT-OTP-BL\obj\Debug\netcoreapp2.1\BT-OTP-BL.AssemblyInfo.cs
+C:\Solutions\BT-OTP\BT-OTP-BL\obj\Debug\netcoreapp2.1\BT-OTP-BL.dll
+C:\Solutions\BT-OTP\BT-OTP-BL\obj\Debug\netcoreapp2.1\BT-OTP-BL.pdb

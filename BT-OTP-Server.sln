@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BT-OTP-Server", "BT-OTP-Server\BT-OTP-Server.csproj", "{8272A421-C02B-497C-925E-DD85398B55CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT-OTP-BL", "BT-OTP-BL\BT-OTP-BL.csproj", "{67660253-E786-4BDD-BA6F-B6D0CE446EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8272A421-C02B-497C-925E-DD85398B55CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8272A421-C02B-497C-925E-DD85398B55CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8272A421-C02B-497C-925E-DD85398B55CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8272A421-C02B-497C-925E-DD85398B55CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67660253-E786-4BDD-BA6F-B6D0CE446EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67660253-E786-4BDD-BA6F-B6D0CE446EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67660253-E786-4BDD-BA6F-B6D0CE446EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67660253-E786-4BDD-BA6F-B6D0CE446EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7365EF1A-DAD6-440A-9BFA-129C779CEA8E}
+	EndGlobalSection
+EndGlobal
